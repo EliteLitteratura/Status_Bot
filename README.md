@@ -1,2 +1,2 @@
--# Status_Bot	+## Welcome to GitHub Pages
+-# Status_Bot
 -A bot for discord, gives status when a user sends "!status"
